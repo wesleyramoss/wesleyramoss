@@ -1,4 +1,5 @@
 ## OI, eu sou Wesley Ramos
+Desenvolvedor Front-End
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyramoss&show_icons=true&theme=dark)
 
